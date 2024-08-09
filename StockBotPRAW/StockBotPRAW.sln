@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StockBotPRAW", "StockBotPRAW\StockBotPRAW.pyproj", "{A68C3BA7-7BA7-4EA6-AF1B-1CF011942706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68C3BA7-7BA7-4EA6-AF1B-1CF011942706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68C3BA7-7BA7-4EA6-AF1B-1CF011942706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F680B4C-60D8-4FC4-8AD0-C1B718957763}
+	EndGlobalSection
+EndGlobal
